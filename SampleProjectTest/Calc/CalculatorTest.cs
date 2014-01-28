@@ -10,7 +10,7 @@ namespace SampleProject.Calc
         public void TestSumSuccess()
         {
             Calculator calc = new Calculator();
-            Assert.AreEqual(21,calc.Sum(10, 10));
+            Assert.AreEqual(20,calc.Sum(10, 10));
         }
     }
 }
