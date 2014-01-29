@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleProjectTest", "Sample
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6754C9D6-396C-4657-AEB5-D649ED552707}"
 	ProjectSection(SolutionItems) = preProject
-		TestSettings1.testsettings = TestSettings1.testsettings
+		CodeCoverage.runsettings = CodeCoverage.runsettings
 	EndProjectSection
 EndProject
 Global

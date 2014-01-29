@@ -1,7 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using SampleProject.Calc;
 
-namespace SampleProject.Calc
+namespace SampleProjectTest.Calc
 {
     [TestClass]
     public class CalculatorTest
